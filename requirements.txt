@@ -1,0 +1,4 @@
+load_dotenv==0.1.0
+transformers==4.27.3
+openai
+python-dotenv
